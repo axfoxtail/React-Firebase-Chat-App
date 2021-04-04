@@ -2,13 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshot
+![react-firebase-chat](screenshot.png)
+
+## configure before start
+
+Add your `firebase config` in `App.js`
+
 ## Available Scripts
 
 In the project directory, you can run:
-
-### configure before start
-
-Add your firebase config in App.js
 
 ### `yarn start`
 
